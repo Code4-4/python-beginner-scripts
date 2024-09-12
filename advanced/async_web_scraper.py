@@ -1,6 +1,6 @@
 # async_web_scraper.py
-# Dependencies: aiohttp
-# Install with: pip install aiohttp
+# Dependencies: aiohttp, beautifulsoup4
+# Install with: pip install aiohttp beautifulsoup4
 
 import aiohttp
 import asyncio
