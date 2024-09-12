@@ -49,6 +49,7 @@ python-beginner-scripts/
 │
 └── README.md
 
+
 🤝 Contributing
 Contributions are welcome! If you have a script that you think would be helpful for beginners, feel free to open a pull request. Please ensure your code is well-documented and follows Python best practices.
 
