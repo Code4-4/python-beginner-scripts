@@ -30,24 +30,14 @@ Some scripts may require additional libraries, which will be listed at the top o
 
 📁 **Repository Structure**
 
-python-beginner-scripts/
-│
-├── beginner/
-│   ├── hello_world.py
-│   ├── calculator.py
-│   └── ...
-│
-├── intermediate/
-│   ├── csv_reader.py
-│   ├── simple_game.py
-│   └── ...
-│
-├── advanced/
-│   ├── web_scraper.py
-│   ├── data_visualization.py
-│   └── ...
-│
-└── README.md
+- **`python-beginner-scripts/`**: Root directory of the repository.
+- **`beginner/`**: Folder containing beginner-level scripts.
+  - **`hello_world.py`**, **`calculator.py`**: Example scripts.
+- **`intermediate/`**: Folder for intermediate-level scripts.
+  - **`csv_reader.py`**, **`simple_game.py`**: Example scripts.
+- **`advanced/`**: Folder for advanced-level scripts.
+  - **`web_scraper.py`**, **`data_visualization.py`**: Example scripts.
+- **`README.md`**: Documentation file located in the root directory.
 
 
 🤝 Contributing
